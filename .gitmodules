@@ -1,7 +1,3 @@
 [submodule "RF24"]
 	path = RF24
-    url = https://github.com/edoardoo/RF24
-
-[submodule "jsoncpp"]
-    path = jsoncpp
-    url = https://github.com/open-source-parsers/jsoncpp
+	url = https://github.com/edoardoo/RF24

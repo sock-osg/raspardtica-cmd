@@ -1,0 +1,7 @@
+{
+  "devices":{
+    "master": "0x234ab4fa",
+    "waterPump": "0xdeadbeef",
+    "sprinklers": "0xdeadbeef"
+  }
+}
